@@ -50,6 +50,7 @@ if (isset($_GET['del'])) {
 <html>
 <head>
     <title>Sistema de Alunos</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
